@@ -1,2 +1,2 @@
 created file to learn pull.
-after pull updated and pussed this changes.
+\nafter pull updated and pushed this changes.
