@@ -1,1 +1,2 @@
-created file to learn pull
+created file to learn pull.
+after pull updated and pussed this changes.
